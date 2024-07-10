@@ -12,3 +12,9 @@ const main = () => {
 const palindrome = () => {
   console.log("palindrome");
 };
+
+
+
+const palindrome2 = () => {
+  console.log("palindrome2");
+};
