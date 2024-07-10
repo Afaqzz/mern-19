@@ -1,10 +1,9 @@
-const main = () => {
-  console.log("main function");
+const secondary = () => {
+  console.log("secondary");
 };
 
-const evenOdd = () => {
-  const a = 2;
-  a % 2 == 0 ? console.log("even") : console.log("odd");
+const main = () => {
+  console.log("main function");
 };
 
 const palindrome = () => {
