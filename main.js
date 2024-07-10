@@ -18,3 +18,7 @@ const palindrome = () => {
 const palindrome2 = () => {
   console.log("palindrome2");
 };
+
+const palindrome3 = () => {
+  console.log("palindrome2");
+};
